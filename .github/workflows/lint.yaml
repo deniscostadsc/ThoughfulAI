@@ -1,0 +1,14 @@
+---
+name: Lint
+on:
+  push:
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - name: Run lint check
+        run: make lint

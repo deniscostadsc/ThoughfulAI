@@ -1,5 +1,9 @@
 # Thoughtful AI
 
+[![LINT](https://github.com/deniscostadsc/ThoughfulAI/actions/workflows/lint.yaml/badge.svg)](https://github.com/deniscostadsc/ThoughfulAI/actions/workflows/lint.yaml)
+[![TEST](https://github.com/deniscostadsc/ThoughfulAI/actions/workflows/test.yaml/badge.svg)](https://github.com/deniscostadsc/ThoughfulAI/actions/workflows/test.yaml)
+[![TYPECHECK](https://github.com/deniscostadsc/ThoughfulAI/actions/workflows/typecheck.yaml/badge.svg)](https://github.com/deniscostadsc/ThoughfulAI/actions/workflows/typecheck.yaml)
+
 Package sorting and classification system.
 
 ## Summary
