@@ -13,15 +13,6 @@ Determines if packages are bulky (≥150cm dimension or ≥1M cm³ volume) or he
 - `SPECIAL` - Either bulky OR heavy
 - `STANDARD` - Neither bulky nor heavy
 
-## Quick Start
-
-```bash
-make lint      # Check code quality
-make lint-fix  # Fix formatting and linting issues
-make test      # Run tests
-make typecheck # Type checking
-```
-
 ## Makefile Tasks
 
 | Task | Description |
